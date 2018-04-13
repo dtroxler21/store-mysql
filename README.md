@@ -13,3 +13,6 @@ This is a node app combined with MySQL functionality. It is an Amazon-like store
    * If there is not enough stock, the app is runs again from the beginning
 
    * If there is enough stock, the app displays a message to the user and updates the stock_quantity in MySQL
+
+
+Check out the screenshots in the "assets" folder!
